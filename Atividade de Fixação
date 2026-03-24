@@ -1,0 +1,84 @@
+Exercicio 1
+
+
+Microsoft Windows [versão 10.0.26200.8039]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\Solange Santos>node -v
+v24.14.0
+
+C:\Users\Solange Santos>cd documents
+
+C:\Users\Solange Santos\Documents>dir
+ O volume na unidade C é OS
+ O Número de Série do Volume é 4A0C-5035
+
+ Pasta de C:\Users\Solange Santos\Documents
+
+06/04/2024  18:14    <DIR>          .
+22/03/2026  17:36    <DIR>          ..
+               0 arquivo(s)              0 bytes
+               2 pasta(s)   344.491.302.912 bytes disponíveis
+
+C:\Users\Solange Santos\Documents>
+
+Exercicio 2
+
+
+
+Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
+
+PS C:\Users\Solange Santos> mkdir projetos
+
+
+    Diretório: C:\Users\Solange Santos
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        23/03/2026     20:46                projetos
+
+
+PS C:\Users\Solange Santos> cd projetos
+PS C:\Users\Solange Santos\projetos> mkdir exercicios
+
+
+    Diretório: C:\Users\Solange Santos\projetos
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        23/03/2026     20:46                exercicios
+
+
+PS C:\Users\Solange Santos\projetos> cd exercicios
+PS C:\Users\Solange Santos\projetos\exercicios> mkdir logica
+
+
+    Diretório: C:\Users\Solange Santos\projetos\exercicios
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----        23/03/2026     20:47                logica
+
+
+PS C:\Users\Solange Santos\projetos\exercicios> cd logica
+PS C:\Users\Solange Santos\projetos\exercicios\logica> cd ../..
+PS C:\Users\Solange Santos\projetos>
+
+
+Exercicio 3
+
+O Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Instale o PowerShell mais recente para obter novos recursos e aprimoramentos! https://aka.ms/PSWindows
+
+PS C:\Users\Solange Santos> dotnet --version
+10.0.201
+PS C:\Users\Solange Santos> git --version
+git version 2.53.0.windows.2
+PS C:\Users\Solange Santos> node -v
+v24.14.0
+PS C:\Users\Solange Santos>
